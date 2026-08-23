@@ -6,7 +6,7 @@ HaqSetu is a civic-tech prototype that helps Indian citizens find out which gove
 
 > An AI-powered entitlement auditor helping citizens find the benefits they are entitled to, understand what is blocking them, and take the next step.
 
-**🔗 Live demo:** _add your deployed URL here after publishing (see [Deployment](#deployment) below)_
+**🔗 Live demo:** https://aarya2024-afk.github.io/haqsetu-ai-prototype/ (see [Deployment](#deployment) below)_
 
 ---
 
